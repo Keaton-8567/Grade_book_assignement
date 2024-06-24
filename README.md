@@ -14,10 +14,10 @@ The Gradebook worksheet:
     Moving horizontal throughout the worksheet the user can see all 5 assignments and sub assignments that each "student" was assigned.
     Also the total grade is calculated and rounded to the appropriate grade letter (ex. 90-100 = A, 80-89 = B, grade <= 69 = F).
 
-The Ransomize Worksheet:
+The Randsomize Worksheet:
     This worksheet holds all of the data that can be used to randomize the names and grades of the students. 
 
-    *This worksheet is not ment to be edited and editing this worksheet may cause the program to encounter errors*
+    *This worksheet is not ment to be edited and editing this worksheet may cause the program to encounter errors
 
 3. Using the Workbook
 
@@ -26,8 +26,8 @@ The Gradebook worksheet:
     Another option is that the user can type any value and watch the rows update. 
     The user could also copy and paste the first column (column A) which has the same effect as the macro button. 
 
-The Ransomize Worksheet:
-    *This worksheet is not ment to be edited and editing this worksheet may cause the program to encounter errors*
+The Randsomize Worksheet:
+    *This worksheet is not ment to be edited and editing this worksheet may cause the program to encounter errors
     
 4. Additional Notes
 
