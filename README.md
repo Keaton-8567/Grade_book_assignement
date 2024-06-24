@@ -17,7 +17,7 @@ The Gradebook worksheet:
 The Randsomize Worksheet:
     This worksheet holds all of the data that can be used to randomize the names and grades of the students. 
 
-    *This worksheet is not ment to be edited and editing this worksheet may cause the program to encounter errors
+    This worksheet is not ment to be edited and editing this worksheet may cause the program to encounter errors
 
 3. Using the Workbook
 
